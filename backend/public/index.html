@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Techverse Assistant</title>
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body> <div class="app">
+      <aside class="sidebar">
+        <div class="sidebar-header">
+          <h2>History</h2>
+          <div class="sidebar-actions">
+            <button id="exportBtn" title="Export history">Export</button>
+            <button id="clearBtn" title="Clear history">Clear</button>
+            <button id="settingsBtn" title="Settings">Settings</button>
+          </div>
+        </div>
+        <div id="historyList" class="history-list">Loading...</div>
+      </aside>
+
+
+      <main class="main">
+        <header class="main-header">
+          <h1>Techverse Assistant</h1>
+          <div id="modeBadge" class="mode-badge">Mode</div>
+        </header>
+          <section id="chatArea" class="chat-area">
+            <div class="center-tab" id="centerTab"><img src="/icon.svg" alt="Open Techverse Chatbot" style="width:60px; height:60px;"></div>
+          </section>
+      </main>
+    </div>
+
+      <!-- Right-side sliding chat panel (hidden until opened) -->
+      <div id="chatPanel" class="chat-panel">
+        <div class="chat-panel-header">
+          <div class="title">Techverse Chatbot</div>
+          <button id="closePanel" class="panel-close" aria-label="Close">✕</button>
+        </div>
+        <div class="chat-card">
+          <div id="messages" class="messages"></div>
+          <form id="chat-form" class="chat-form">
+            <input id="input" autocomplete="off" placeholder="Ask Techverse a question..." />
+            <button type="submit">Send</button>
+          </form>
+        </div>
+      </div>
+
+    <!-- Settings modal -->
+    <div id="settingsModal" class="modal hidden">
+      <div class="modal-content">
+        <h3>Settings</h3>
+        <p>You can enable OpenAI by adding an <code>OPENAI_API_KEY</code> to the server's `.env` file. For security, the key must be set on the server; the browser cannot set it for you.</p>
+        <p>OpenAI Model: <code id="modelLabel">gpt-3.5-turbo</code></p>
+        <div class="modal-actions">
+          <button id="closeSettings">Close</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="/chat-advanced.js"></script>
+  </body>
+</html>

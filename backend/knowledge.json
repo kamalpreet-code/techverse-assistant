@@ -1,0 +1,266 @@
+[
+  {
+    "id": "intro",
+    "question": "What is Techverse?",
+    "keywords": ["what is techverse", "about"],
+    "answer": "Techverse is a student-run technical club focused on learning and building projects in software, AI, and hardware."
+  },
+  {
+    "id": "membership",
+    "question": "How to join Techverse?",
+    "keywords": ["join", "membership", "become a member", "how to join"],
+    "answer": "To join Techverse, attend one of our weekly meetings or fill out the membership form shared in our announcements. Membership is open to all students; look for the 'Join' link on our website or contact the club officers via email."
+  },
+  {
+    "id": "events",
+    "question": "What events do you run?",
+    "keywords": ["events", "workshops", "hackathon", "meetings", "sessions"],
+    "answer": "We run hands-on workshops (web, ML, cloud), speaker sessions from industry guests, hackathons, project demo nights, and mentorship programs. Check our events calendar or announcements for upcoming activities."
+  },
+  {
+    "id": "projects",
+    "question": "Can I work on projects?",
+    "keywords": ["projects", "project", "build"],
+    "answer": "Yes — members collaborate on projects across web, mobile, AI, and hardware. We encourage small teams. Look for project boards in our repo or join a project channel to get started."
+  },
+  {
+    "id": "contact",
+    "question": "How to contact Techverse?",
+    "keywords": ["contact", "email", "reach", "officer"],
+    "answer": "You can contact Techverse via the club email techverse@example.com, or message any of the club officers listed on our website. We also have Slack/Discord channels for member discussion."
+  },
+  {
+    "id": "benefits",
+    "question": "What are the benefits of joining Techverse?",
+    "keywords": ["benefits", "advantages", "why join"],
+    "answer": "Joining Techverse provides opportunities to learn new technologies, work on real-world projects, network with industry professionals, and enhance your resume. Members also gain access to exclusive workshops, mentorship, and collaboration with like-minded peers." 
+  },
+  {
+    "id": "skills",
+    "question": "What skills can I learn in Techverse?",
+    "keywords": ["skills", "learn", "technologies"],
+    "answer": "In Techverse, you can learn a variety of skills including web development (HTML, CSS, JavaScript, frameworks), machine learning (Python, TensorFlow, PyTorch), cloud computing (AWS, Azure), and hardware prototyping (Arduino, Raspberry Pi). We also focus on soft skills like teamwork and project management."
+    },
+    {
+    "id": "participation",
+    "question": "How can I participate in Techverse activities?",
+    "keywords": ["participate", "activities", "get involved"],
+    "answer": "You can participate in Techverse activities by attending our weekly meetings, joining workshops, contributing to projects, and engaging in hackathons. Stay updated through our communication channels and don't hesitate to reach out to club officers for guidance on getting involved."
+  },
+  {
+    "id": "resources",
+    "question": "What resources does Techverse provide?",
+    "keywords": ["resources", "materials", "tools"],
+    "answer": "Techverse provides various resources including access to online learning materials, project repositories, development tools, and mentorship from experienced members. We also offer guidance on career development and technical skills enhancement."
+  },
+  {
+    "id": "collaboration",
+    "question": "How does Techverse promote collaboration among members?",
+    "keywords": ["collaboration", "teamwork", "members"],
+    "answer": "Techverse promotes collaboration through team-based projects, group workshops, and hackathons. We encourage members to share ideas, provide feedback, and work together on technical challenges. Our communication platforms also facilitate ongoing collaboration and support."
+  },
+  {
+    "id": "goals",
+    "question": "What are the goals of Techverse?",
+    "keywords": ["main goals", "objectives", "mission"],
+    "answer": "The goals of Techverse are to foster a community of tech enthusiasts, provide learning opportunities in emerging technologies, support members in their technical growth, and contribute to innovative projects. We aim to prepare members for successful careers in the tech industry."
+  },
+  {
+    "id": "support",
+    "question": "How does Techverse support its members?",
+    "keywords": ["support", "help", "assistance"],
+    "answer": "Techverse supports its members through mentorship programs, technical workshops, project guidance, and networking opportunities. We provide a supportive environment where members can seek help, share knowledge, and grow their skills with the assistance of experienced peers and industry professionals."
+  },
+  {
+    "id": "leadership",
+    "question": "How can I take on a leadership role in Techverse?",
+    "keywords": ["leadership", "roles", "positions"],
+    "answer": "To take on a leadership role in Techverse, actively participate in club activities, demonstrate commitment, and express your interest to current club officers. Leadership positions are typically filled through elections or appointments based on member involvement and contributions."
+  },
+  {
+    "id": "alumni",
+    "question": "Does Techverse have an alumni network?",
+    "keywords": ["alumni", "network", "former members"],
+    "answer": "Yes, Techverse has an alumni network that connects former members with current ones. The alumni network provides opportunities for mentorship, networking, and career advice. Alumni often participate in events and share their experiences to help guide current members."
+  },
+  {
+    "id": "sponsorship",
+    "question": "Does Techverse have sponsors?",
+    "keywords": ["sponsors", "sponsorship", "partners"],
+    "answer": "Yes, Techverse is supported by various sponsors and industry partners who provide funding, resources, and mentorship. We actively seek sponsorships to enhance our programs and offer more opportunities to our members."
+  },
+  {
+    "id": "diversity",
+    "question": "How does Techverse promote diversity and inclusion?",
+    "keywords": ["diversity", "inclusion", "equal opportunity"],
+    "answer": "Techverse is committed to promoting diversity and inclusion by creating a welcoming environment for members of all backgrounds. We encourage participation from underrepresented groups in tech and organize events that highlight diverse perspectives and experiences."
+  },
+  {
+    "id": "feedback",
+    "question": "How can I provide feedback to Techverse?",
+    "keywords": ["feedback", "suggestions", "improvements"],
+    "answer": "You can provide feedback to Techverse by reaching out to club officers via email or during meetings. We also have feedback forms available after events and workshops to gather member input on how we can improve our activities and offerings."
+  },
+  {
+    "id": "future",
+    "question": "What are the future plans for Techverse?",
+    "keywords": ["future", "plans", "upcoming"],
+    "answer": "Techverse plans to expand its range of workshops, increase collaboration with industry partners, and launch new initiatives focused on emerging technologies like AI, blockchain, and IoT. We aim to enhance member experiences through more hands-on projects and networking opportunities."
+  },
+  {
+    "id": "success",
+    "question": "How does Techverse measure success?",
+    "keywords": ["success", "metrics", "evaluation"],
+    "answer": "Techverse measures success through member engagement, the number of projects completed, skills acquired by members, and feedback from participants. We also track the career progression of our alumni and the impact of our events on the tech community."
+  },
+  {
+    "id": "partnerships",
+    "question": "Does Techverse collaborate with other organizations?",
+    "keywords": ["partnerships", "collaborate", "organizations"],
+    "answer": "Yes, Techverse collaborates with other student organizations, tech companies, and community groups to host joint events, workshops, and hackathons. These partnerships help provide diverse learning opportunities and resources for our members."
+  },
+  {
+    "id": "codeofconduct",
+    "question": "What is the code of conduct for Techverse?",
+    "keywords": ["code of conduct", "rules", "behavior"],
+    "answer": "Techverse has a code of conduct that emphasizes respect, inclusivity, and professionalism. Members are expected to treat each other with kindness, avoid discriminatory behavior, and contribute to a positive and supportive community. Violations of the code of conduct may result in disciplinary action."
+  },
+  {
+    "id": "volunteering",
+    "question": "How can I volunteer for Techverse?",
+    "keywords": ["volunteer", "help", "support"],
+    "answer": "You can volunteer for Techverse by signing up for specific events, workshops, or projects that need assistance. Reach out to club officers to express your interest in volunteering and find out about upcoming opportunities to contribute your time and skills."
+  },
+  {
+    "id": "mentorship",
+    "question": "Does Techverse offer mentorship programs?",
+    "keywords": ["mentorship", "mentor", "programs"],
+    "answer": "Yes, Techverse offers mentorship programs where experienced members and industry professionals provide guidance and support to newer members. Mentorship focuses on technical skills, career advice, and personal development to help members achieve their goals."
+  },
+  {
+    "id": "socialmedia",
+    "question": "Where can I follow Techverse on social media?",
+    "keywords": ["social media", "follow", "accounts"],
+    "answer": "You can follow Techverse on various social media platforms such as Facebook, Twitter, Instagram, and LinkedIn. Check our website for the official links to stay updated on events, announcements, and club activities."
+  },
+  {
+    "id": "faq",
+    "question": "Where can I find more FAQs about Techverse?",
+    "keywords": ["faq", "frequently asked questions", "more info"],
+    "answer": "More FAQs about Techverse can be found on our official website under the FAQ section. You can also reach out to club officers or join our communication channels to ask any specific questions you may have."
+  },
+  {
+    "id": "history",
+    "question": "What is the history of Techverse?",
+    "keywords": ["history", "background", "founding"],
+    "answer": "Techverse was founded in [Year] by a group of passionate students aiming to create a community for tech enthusiasts. Over the years, it has grown significantly, hosting numerous events and expanding its membership base to include students from various disciplines interested in technology."
+  },
+  {
+    "id": "location",
+    "question": "Where is Techverse located?",
+    "keywords": ["location", "where", "address"],
+    "answer": "Techverse is based at CT university (ludhiana) with meetings typically held in Block A. For virtual events, we use platforms like Zoom or Discord. Check our website or announcements for specific event locations."
+  },
+  {
+    "id": "fees",
+    "question": "Are there any fees to join Techverse?",
+    "keywords": ["fees", "cost", "membership fee"],
+    "answer": "Joining Techverse is generally free for students. However, some special events or workshops may have a nominal fee to cover materials or guest speakers. Any fees will be communicated in advance, and we strive to keep participation affordable for all members."
+  },
+  {
+    "id": "codeofethics",
+    "question": "What is the code of ethics for Techverse?",
+    "keywords": ["code of ethics", "ethics", "principles"],
+    "answer": "Techverse adheres to a code of ethics that promotes integrity, respect, and responsibility among its members. We expect members to uphold high ethical standards in their conduct, both within the club and in their professional lives, fostering a trustworthy and honorable community."
+  },
+  {
+    "id": "sustainability",
+    "question": "How does Techverse promote sustainability?",
+    "keywords": ["sustainability", "environment", "green initiatives"],
+    "answer": "Techverse promotes sustainability by encouraging eco-friendly practices during events, such as reducing paper usage, promoting recycling, and utilizing digital resources. We also organize workshops and projects focused on sustainable technology and environmental awareness."
+  },
+  {
+    "id": "innovation",
+    "question": "How does Techverse foster innovation?",
+    "keywords": ["innovation", "creativity", "new ideas"],
+    "answer": "Techverse fosters innovation by providing a collaborative environment where members can brainstorm, experiment, and develop new ideas. We host hackathons, innovation challenges, and project showcases that encourage creative problem-solving and the exploration of cutting-edge technologies."
+  },
+  {
+    "id": "awards",
+    "question": "Does Techverse give out awards or recognitions?",
+    "keywords": ["awards", "recognitions", "achievements"],
+    "answer": "Yes, Techverse recognizes outstanding contributions from its members through awards and recognitions during annual events or special ceremonies. Awards may be given for project excellence, leadership, innovation, and active participation in club activities."
+  },
+  {
+    "id": "safety",
+    "question": "What safety measures does Techverse implement?",
+    "keywords": ["safety", "measures", "precautions"],
+    "answer": "Techverse prioritizes the safety of its members by adhering to university guidelines and best practices during in-person events. This includes maintaining a safe environment, providing necessary safety equipment, and ensuring that all activities comply with health and safety regulations."
+  },
+  {
+    "id": "accessibility",
+    "question": "How does Techverse ensure accessibility?",
+    "keywords": ["accessibility", "inclusive", "accommodations"],
+    "answer": "Techverse ensures accessibility by making events and resources available to all members, including those with disabilities. We provide accommodations as needed, such as wheelchair access, sign language interpreters, and accessible digital content, to create an inclusive environment for everyone."
+  },
+  {
+    "id": "collaborators",
+    "question": "Who are the key collaborators of Techverse?",
+    "keywords": ["collaborators", "partners", "key people"],
+    "answer": "Techverse collaborates with various industry professionals, alumni, and other student organizations to enhance learning opportunities for its members. Key collaborators often participate in workshops, mentorship programs, and special events to share their expertise and insights."
+  },
+  {
+    "id": "technology",
+    "question": "What technologies does Techverse focus on?",
+    "keywords": ["technologies", "focus", "areas"],
+    "answer": "Techverse focuses on a wide range of technologies including web development (HTML, CSS, JavaScript, frameworks), machine learning (Python, TensorFlow, PyTorch), cloud computing (AWS, Azure), and hardware prototyping (Arduino, Raspberry Pi). We stay updated with emerging trends to provide relevant learning experiences."
+  },
+  {
+    "id": "evaluation",
+    "question": "How does Techverse evaluate its programs?",
+    "keywords": ["evaluation", "programs", "assessment"],
+    "answer": "Techverse evaluates its programs through member feedback, participation rates, and the success of projects undertaken. We conduct surveys after events and workshops to gather insights and continuously improve our offerings based on member needs and interests."
+  },
+  {
+    "id": "communication",
+    "question": "How does Techverse communicate with its members?",
+    "keywords": ["communication", "updates", "channels"],
+    "answer": "Techverse communicates with its members through various channels including email newsletters, social media platforms, and messaging apps like Slack or Discord. Regular updates about events, workshops, and important announcements are shared to keep members informed and engaged."
+  },
+  {
+    "id": "historyfounders",
+    "question": "Who founded Techverse?",
+    "keywords": ["founders", "who started", "history"],
+    "answer": "Techverse was founded by a group of passionate students at CT university (ludhiana) in [Year]. The founding members aimed to create a community for tech enthusiasts to learn, collaborate, and innovate together."
+  },
+  {
+    "id": "achievements",
+    "question": "What are some notable achievements of Techverse?",
+    "keywords": ["achievements", "notable", "milestones"],
+    "answer": "Techverse has achieved several milestones including hosting successful hackathons, completing impactful projects, and establishing partnerships with industry leaders. Our members have also won awards in various competitions and contributed to open-source initiatives."
+  },
+  {
+    "id": "culture",
+    "question": "What is the culture like in Techverse?",
+    "keywords": ["culture", "environment", "atmosphere"],
+    "answer": "The culture in Techverse is inclusive, collaborative, and innovation-driven. We foster a supportive environment where members are encouraged to share ideas, learn from each other, and take on challenges. Our community values diversity, creativity, and continuous learning."
+  },
+  {
+    "id": "growth",
+    "question": "How has Techverse grown over the years?",
+    "keywords": ["growth", "development", "expansion"],
+    "answer": "Techverse has grown significantly since its inception, expanding its membership base, increasing the number of events and workshops, and enhancing its resources. We have also developed stronger industry connections and diversified our focus areas to include emerging technologies."
+  },
+  {
+    "id": "impact",
+    "question": "What impact has Techverse had on its members?",
+    "keywords": ["impact", "influence", "effect"],
+    "answer": "Techverse has had a positive impact on its members by providing opportunities for skill development, networking, and career advancement. Many members have successfully transitioned into tech roles, launched startups, or contributed to significant projects as a result of their involvement in the club."
+  },
+  {
+    "id": "management",
+    "question": "Who manages techverse?",
+    "keywords": ["managing", "contribution", "run"],
+    "answer": "The students of techverse club manage techverse. They handle all the activities and events organized by the club. faculty members also contribute to managing the club."
+  }
+]

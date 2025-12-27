@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "text": "hey",
+    "ts": "2025-12-27T15:57:03.052Z"
+  },
+  {
+    "role": "bot",
+    "text": "Hello! I am Techverse Assistant. How can I help you today?",
+    "ts": "2025-12-27T15:57:03.054Z"
+  },
+  {
+    "role": "user",
+    "text": "what is techverse",
+    "ts": "2025-12-27T15:57:11.992Z"
+  },
+  {
+    "role": "bot",
+    "text": "Techverse is a student-run technical club focused on learning and building projects in software, AI, and hardware.",
+    "ts": "2025-12-27T15:57:11.994Z"
+  },
+  {
+    "role": "user",
+    "text": "how to join the club",
+    "ts": "2025-12-27T15:57:24.198Z"
+  },
+  {
+    "role": "bot",
+    "text": "To join Techverse, attend one of our weekly meetings or fill out the membership form shared in our announcements. Membership is open to all students; look for the 'Join' link on our website or contact the club officers via email.",
+    "ts": "2025-12-27T15:57:24.200Z"
+  },
+  {
+    "role": "user",
+    "text": "who run techverse club",
+    "ts": "2025-12-27T15:57:47.046Z"
+  },
+  {
+    "role": "bot",
+    "text": "The students of techverse club manage techverse. They handle all the activities and events organized by the club. faculty members also contribute to managing the club.",
+    "ts": "2025-12-27T15:57:47.048Z"
+  }
+]
