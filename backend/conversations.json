@@ -38,5 +38,15 @@
     "role": "bot",
     "text": "The students of techverse club manage techverse. They handle all the activities and events organized by the club. faculty members also contribute to managing the club.",
     "ts": "2025-12-27T15:57:47.048Z"
+  },
+  {
+    "role": "user",
+    "text": "hey",
+    "ts": "2025-12-27T16:49:07.973Z"
+  },
+  {
+    "role": "bot",
+    "text": "Hello! I am Techverse Assistant. How can I help you today?",
+    "ts": "2025-12-27T16:49:07.974Z"
   }
 ]
